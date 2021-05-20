@@ -1,6 +1,21 @@
-# More Than just a todo app
+# Todoist - More Than a ToDo App
+Deployed at ---->  [Click Here To Visit The App](https://nifty-tesla-7ae62e.netlify.app/)
+ - A ToDo App with folders.
+ - 100%  Mobile Responsive.
+ - Scheduling ToDo's.
 
-# How to set up locally
-  create a .env file in root add api_key and appId from firebase
-  `npm i` and `npm start`
-Deployed At https://nifty-tesla-7ae62e.netlify.app/
+## Technolgies Used
+
+```js
+const techUsed= {
+
+languages: ['Javascript'],
+
+technologies: ['React', 'Firebase 🔥', 'SASS', 'Moment.JS'],
+
+renderingStyle: ['CSR'],
+
+}
+```
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
